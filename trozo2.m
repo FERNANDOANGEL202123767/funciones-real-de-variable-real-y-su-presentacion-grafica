@@ -1,3 +1,12 @@
+% Octave Script
+% Title			    :funcion real de variables real
+% Description		:Script para recordar funciones reales
+% Author		    :fernando angel garcia hernandez
+% Date		    	:27/10/2021
+% Version		    :1
+% Usage			    :octave
+%               :https://octaveintro.readthedocs.io/en/latest/index.html
+
 %funcion trozos
 %si f:D?I | f(x)=(sqrt=0 si 0<=x<=1)(2-x si 1<x<=2)
 f=@(x) (x).*(0<=x).*(x<=1)+(2-x).*(1<x).*(x<=2);
