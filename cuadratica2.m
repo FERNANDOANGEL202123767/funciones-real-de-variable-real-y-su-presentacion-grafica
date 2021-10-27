@@ -1,3 +1,12 @@
+% Octave Script
+% Title			    :funcion real de variables real
+% Description		:Script para recordar funciones reales
+% Author		    :fernando angel garcia hernandez
+% Date		    	:27/10/2021
+% Version		    :1
+% Usage			    :octave
+%               :https://octaveintro.readthedocs.io/en/latest/index.html
+
 %funcion cuadratica
 %f(x)=x^2+6x
 clear
